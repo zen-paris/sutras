@@ -1,0 +1,1073 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 10.5cm
+\paperheight 29.7cm
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\columnsep 1cm
+\secnumdepth -2
+\tocdepth -2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 1
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Subsubsection*
+\paragraph_spacing other 0.8
+\noindent
+
+\shape smallcaps
+\size largest
+Busshô Kapila
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\shape italic
+\size largest
+Sutra des repas
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Bussho Kapila
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Jodo Makada
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Seppo Harana
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Nyumetsu kuchira
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Nyoraï oryoki
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Gakkon toku futen
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Ganku issaï shu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Tosan rinku jaku
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\shape italic
+\size larger
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\shape italic
+\size larger
+Les mains en gassho.
+ Remplir les bols ou les assiettes une fois que le maître est servi.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Shinjin pashin biru shanofu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Enmom hoshin ru shanofu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Senpaï kashin shakyamuni fu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Toraï asan miruson fu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Jiho sanshi i shi fu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Daïjin myo horenkajin
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Daïshin monju suribusa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Daïan fuen busa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Daïhi kanshi in busa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Shi son busa mokosa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Moko hoja horomi
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Hitotsu ni wa kono tasho wo hakari
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\shape italic
+\size larger
+À 
+\shape default
+hakari,
+\shape italic
+ les mains en kin-hin, puis en zazen.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Ka no raï sho wo hakaru
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Futatsu ni wa onorega tokugyo no
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Zen ketto wo hakatte kuni ozu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Mitsu ni wa shin wo fusegi toga wo hanareru kotowa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Tonto wo shutto su
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Yotsu ni wa massani ryoyaku wo koto to suruwa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Gyoko wo ryozen ga tamenari
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Itsutsu ni wa jo do no tame no yueni
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\size largest
+Ima kono shiki wo uku
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\shape italic
+\size larger
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
+\noindent
+
+\shape italic
+\size larger
+\begin_inset Tabular
+<lyxtabular version="3" rows="10" columns="1">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape italic
+\size larger
+Mettre la cuiller manche vers l’avant dans le bol.
+  Le midi, ajouter un petit morceau de pain.
+  Lever le bol à hauteur du visage en le tenant avec les pouces, les index
+ et les majeurs.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Jobun sambo chubun shion
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Gekyu rokudo kaïdoku jo
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Ikkui dan issaï aku
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Nikui shu issaï zen
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Sankui do sho shu jo
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Kaïgu jo butsudo
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape italic
+\size larger
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape italic
+\size larger
+Manger la genmaï en levant le bol à hauteur de la bouche.
+ Remplir de thé et nettoyer le bol avec le thé.
+ Lever le bol comme pour la genmaï.
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Gashi sen bassui
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Nyo ten kan romi
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Seyo ki jinshu
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Shitsu ryo tokubo u man
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\size largest
+Onma kura saï sowaka
+\end_layout
+
+\begin_layout Subsubsection*
+\paragraph_spacing other 0.8
+\noindent
+
+\shape italic
+\size larger
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset Tabular
+<lyxtabular version="3" rows="13" columns="1">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size largest
+Eko
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Aogi Koi Ne Ga Wa Ku Wa
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Sambo Fushite Shokan Wo Tare Tamae
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Jo Rai Maka Hannya Haramita Shingyo Wo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Fujutsu Atsumuru Tokoro No Kudo Ku Wa
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+\SpecialChar \ldots{}
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Honjitsu Ho Sen Doyo Ni
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+(Sesshin de Paris) Ni
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Sanzen Seishu Ichido No Kofuku Wo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Kinen Sen Koto Wo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
