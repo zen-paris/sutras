@@ -123,22 +123,28 @@ guy
 \paragraph_spacing other 0.9
 \noindent
 
+\series bold
 \size largest
 \bar under
 Kan
+\series default
 \bar default
  ji zaï bo satsu 
 \shape italic
 gyo
 \shape default
  jin 
+\series bold
 \bar under
 han
+\series default
 \bar default
  nya hara mita ji.
  Sho ken go 
+\series bold
 \bar under
 on
+\series default
 \bar default
  kaï ku.
  Do issaï ku yaku.
@@ -164,33 +170,43 @@ on
  Mu ku shu metsu do.
  Mu chi yaku mu toku.
  I 
+\series bold
 \bar under
 mu
+\series default
 \bar default
  sho toku ko.
  Bo daï sat ta.
  E 
+\series bold
 \bar under
 han
+\series default
 \bar default
  nya hara mita ko.
  
+\series bold
 \bar under
 Shin
+\series default
 \bar default
  mu ke ge mu ke ge ko.
  Mu u ku fu.
  On ri issaï ten do mu so.
  Ku gyo ne han.
  San ze sho butsu e 
+\series bold
 \bar under
 han
+\series default
 \bar default
  nya hara mita ko.
  Toku a nokuta ra san myaku san bodaï.
  Ko chi 
+\series bold
 \bar under
 han
+\series default
 \bar default
  nya hara mita.
  Ze daï jin shu.
@@ -199,8 +215,10 @@ han
  Ze mu to do shu.
  No jo issaï ku.
  Shin jitsu fu ko ko setsu 
+\series bold
 \bar under
 han
+\series default
 \bar default
  nya hara mita shu.
  Soku setsu shu watsu.
