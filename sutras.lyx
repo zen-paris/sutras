@@ -129,7 +129,7 @@ guy
 Kan
 \series default
 \bar default
- ji zaï bo satsu 
+ ji zai bo satsu 
 \shape italic
 gyo
 \shape default
@@ -146,8 +146,8 @@ han
 on
 \series default
 \bar default
- kaï ku.
- Do issaï ku yaku.
+ kai ku.
+ Do issai ku yaku.
  Sha ri shi.
  Shiki fu i ku.
  Ku fu i shiki.
@@ -164,9 +164,9 @@ on
  Mu shiki mu ju so gyo shiki.
  Mu gen ni bi ze shin i.
  Mu shiki sho ko mi soku ho.
- Mu gen kaï naï shi mu i shiki kaï.
+ Mu gen kai nai shi mu i shiki kai.
  Mu mu myo yaku mu mu myo jin.
- Naï shi mu ro shi yaku mu ro shi jin.
+ Nai shi mu ro shi yaku mu ro shi jin.
  Mu ku shu metsu do.
  Mu chi yaku mu toku.
  I 
@@ -176,7 +176,7 @@ mu
 \series default
 \bar default
  sho toku ko.
- Bo daï sat ta.
+ Bo dai sat ta.
  E 
 \series bold
 \bar under
@@ -192,7 +192,7 @@ Shin
 \bar default
  mu ke ge mu ke ge ko.
  Mu u ku fu.
- On ri issaï ten do mu so.
+ On ri issai ten do mu so.
  Ku gyo ne han.
  San ze sho butsu e 
 \series bold
@@ -201,7 +201,7 @@ han
 \series default
 \bar default
  nya hara mita ko.
- Toku a nokuta ra san myaku san bodaï.
+ Toku a nokuta ra san myaku san bodai.
  Ko chi 
 \series bold
 \bar under
@@ -209,11 +209,11 @@ han
 \series default
 \bar default
  nya hara mita.
- Ze daï jin shu.
- Ze daï myo shu.
+ Ze dai jin shu.
+ Ze dai myo shu.
  Ze mu jo shu.
  Ze mu to do shu.
- No jo issaï ku.
+ No jo issai ku.
  Shin jitsu fu ko ko setsu 
 \series bold
 \bar under
@@ -222,7 +222,7 @@ han
 \bar default
  nya hara mita shu.
  Soku setsu shu watsu.
- Gyateï, gyateï, hara gyateï hara so gyateï bo ji so wa ka.
+ Gyatei, gyatei, hara gyatei hara so gyatei bo ji so wa ka.
 \end_layout
 
 \begin_layout Standard
@@ -311,7 +311,7 @@ height "1pt"
 
 \shape italic
 \size largest
-Shu jo muhen seï gan do
+Shu jo muhen sei gan do
 \end_layout
 
 \end_inset
@@ -356,7 +356,7 @@ Shu jo muhen seï gan do
 \begin_layout Plain Layout
 
 \size largest
-Bonno mujin seï gan dan
+Bonno mujin sei gan dan
 \end_layout
 
 \end_inset
@@ -402,7 +402,7 @@ Ji ho san shi i shi fu
 \begin_layout Plain Layout
 
 \size largest
-Ho mon muryo seï gan gaku
+Ho mon muryo sei gan gaku
 \end_layout
 
 \end_inset
@@ -448,7 +448,7 @@ Shi son bu sa mo ko sa
 \begin_layout Plain Layout
 
 \size largest
-Butsu do mujo seï gan jo
+Butsu do mujo sei gan jo
 \end_layout
 
 \end_inset
@@ -645,7 +645,7 @@ tête le kesa plié avec la calligraphie
 \begin_layout Plain Layout
 
 \size largest
-Daï saï gedda puku
+Dai sai gedda puku
 \end_layout
 
 \end_inset
@@ -671,7 +671,7 @@ Muso fuku den e
 \begin_layout Plain Layout
 
 \size largest
-Hi bu nyoraï kyo
+Hi bu nyorai kyo
 \end_layout
 
 \end_inset
@@ -756,7 +756,7 @@ Ne ga wa ku wa kono kudo kuwo
 \begin_layout Plain Layout
 
 \size largest
-Motte hamani ku issaï nyo yo bosshi
+Motte hamani ku issai nyo yo bosshi
 \end_layout
 
 \end_inset
