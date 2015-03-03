@@ -54,11 +54,11 @@
 \end_index
 \paperwidth 10.5cm
 \paperheight 29.7cm
-\leftmargin 1cm
+\leftmargin 0.8cm
 \topmargin 1cm
-\rightmargin 1cm
-\bottommargin 1cm
-\columnsep 1cm
+\rightmargin 0.8cm
+\bottommargin 0.5cm
+\columnsep 0.1cm
 \secnumdepth -2
 \tocdepth -2
 \paragraph_separation indent
@@ -131,7 +131,7 @@ Nyumetsu kuchira
 \noindent
 
 \size largest
-Nyoraï oryoki
+Nyorai oryoki
 \end_layout
 
 \begin_layout Standard
@@ -147,7 +147,7 @@ Gakkon toku futen
 \noindent
 
 \size largest
-Ganku issaï shu
+Ganku issai shu
 \end_layout
 
 \begin_layout Standard
@@ -206,7 +206,7 @@ Enmom hoshin ru shanofu
 \noindent
 
 \size largest
-Senpaï kashin shakyamuni fu
+Senpai kashin shakyamuni fu
 \end_layout
 
 \begin_layout Standard
@@ -214,7 +214,7 @@ Senpaï kashin shakyamuni fu
 \noindent
 
 \size largest
-Toraï asan miruson fu
+Torai asan miruson fu
 \end_layout
 
 \begin_layout Standard
@@ -230,7 +230,7 @@ Jiho sanshi i shi fu
 \noindent
 
 \size largest
-Daïjin myo horenkajin
+Daijin myo horenkajin
 \end_layout
 
 \begin_layout Standard
@@ -238,7 +238,7 @@ Daïjin myo horenkajin
 \noindent
 
 \size largest
-Daïshin monju suribusa
+Daishin monju suribusa
 \end_layout
 
 \begin_layout Standard
@@ -246,7 +246,7 @@ Daïshin monju suribusa
 \noindent
 
 \size largest
-Daïan fuen busa
+Daian fuen busa
 \end_layout
 
 \begin_layout Standard
@@ -254,7 +254,7 @@ Daïan fuen busa
 \noindent
 
 \size largest
-Daïhi kanshi in busa
+Daihi kanshi in busa
 \end_layout
 
 \begin_layout Standard
@@ -299,7 +299,7 @@ hakari,
 \noindent
 
 \size largest
-Ka no raï sho wo hakaru
+Ka no rai sho wo hakaru
 \end_layout
 
 \begin_layout Standard
@@ -732,21 +732,21 @@ Jobun sambo chubun shion
 \noindent
 
 \size largest
-Gekyu rokudo kaïdoku jo
+Gekyu rokudo kaidoku jo
 \end_layout
 
 \begin_layout Standard
 \noindent
 
 \size largest
-Ikkui dan issaï aku
+Ikkui dan issai aku
 \end_layout
 
 \begin_layout Standard
 \noindent
 
 \size largest
-Nikui shu issaï zen
+Nikui shu issai zen
 \end_layout
 
 \begin_layout Standard
@@ -760,7 +760,7 @@ Sankui do sho shu jo
 \noindent
 
 \size largest
-Kaïgu jo butsudo
+Kaigu jo butsudo
 \end_layout
 
 \begin_layout Standard
@@ -784,9 +784,9 @@ height "1pt"
 
 \shape italic
 \size larger
-Manger la genmaï en levant le bol à hauteur de la bouche.
+Manger la genmai en levant le bol à hauteur de la bouche.
  Remplir de thé et nettoyer le bol avec le thé.
- Lever le bol comme pour la genmaï.
+ Lever le bol comme pour la genmai.
 \end_layout
 
 \begin_layout Standard
@@ -821,7 +821,7 @@ Shitsu ryo tokubo u man
 \noindent
 
 \size largest
-Onma kura saï sowaka
+Onma kura sai sowaka
 \end_layout
 
 \begin_layout Subsubsection*
@@ -841,61 +841,10 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Subsubsection*
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \noindent
 \begin_inset Tabular
-<lyxtabular version="3" rows="13" columns="1">
+<lyxtabular version="3" rows="21" columns="1">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <row>
@@ -979,7 +928,151 @@ Jo Rai Maka Hannya Haramita Shingyo Wo
 \begin_layout Plain Layout
 
 \size larger
-Fujutsu Atsumuru Tokoro No Kudo Ku Wa
+Fujutsu Atsumuru Tokoro No Kudo Ku Wa ◐
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Dai Hon Kyo Shu, Honshi Shakya Muni Butsu
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Shin Tan Shoso Bodai Daruma Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Shusho Eihei Dogen Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Keizan Jokin Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Mokusho Seku Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Kaku Kaku Rekidai No Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Narabini: Somon Kodo Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Mokudo Taisen Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Zuigaku Rempo Zenji Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+No Tame Kamiji On Ni Mukui !
+\shape default
+ 
+\size large
+◯
 \end_layout
 
 \end_inset
@@ -992,34 +1085,7 @@ Fujutsu Atsumuru Tokoro No Kudo Ku Wa
 \begin_layout Plain Layout
 
 \size larger
-\SpecialChar \ldots{}
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-Honjitsu Ho Sen Doyo Ni
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-(Sesshin de Paris) Ni
+Honjitsu Paris Dojo Ni
 \end_layout
 
 \end_inset
