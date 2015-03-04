@@ -722,7 +722,7 @@ Ko do sho shu jo
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="6" columns="1">
+<lyxtabular version="3" rows="7" columns="1">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <row>
@@ -737,6 +737,20 @@ Ko do sho shu jo
 </cell>
 </row>
 <row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape smallcaps
+\size largest
+Fuekô
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
 <cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
@@ -744,7 +758,7 @@ Ko do sho shu jo
 
 \shape slanted
 \size largest
-Ne ga wa ku wa kono kudo kuwo
+Negawaku wa kono kudo kuwo
 \end_layout
 
 \end_inset
@@ -786,7 +800,7 @@ Warera toshujo tomina tomoni
 
 \shape slanted
 \size largest
-butsudo wo josen koto wo o o
+Butsudo wo jozen koto wo o o
 \end_layout
 
 \end_inset
