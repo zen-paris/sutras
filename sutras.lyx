@@ -1123,23 +1123,149 @@ e
 \size giant
 ●
 \size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
 ●
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size largest
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size larger
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size large
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size default
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size small
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size footnotesize
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size largest
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size small
 ●
+\size huge
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size giant
 ●
 \end_layout
