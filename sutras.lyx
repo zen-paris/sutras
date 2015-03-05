@@ -916,30 +916,225 @@ Sonner le métal et le bois
 \begin_layout Plain Layout
 
 \size largest
-●●
-\size default
-●
-\size giant
-●
-\size huge
-●
-\size largest
-●
-\size larger
-●
-\size large
-●
-\size default
-●
-\size small
-●
-\size footnotesize
-●
-\size scriptsize
 ●
 \size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size largest
+\color inherit
 ●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size default
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size giant
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size huge
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size largest
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size larger
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size large
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size default
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size small
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size scriptsize
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\color inherit
+●
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size giant
+\color inherit
 ●
 \end_layout
 
@@ -1058,27 +1253,190 @@ e
 
 \size giant
 ●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size huge
-●
-\size largest
-●
-\size larger
-●
-\size large
-●
-\size default
-●
-\size small
-●
-\size footnotesize
-●
-\size scriptsize
+\color inherit
 ●
 \size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size largest
+\color inherit
 ●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size larger
+\color inherit
 ●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size large
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size default
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size small
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size footnotesize
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size scriptsize
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\color inherit
+●
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
+\size larger
+\color inherit
+●
+\size tiny
+\color white
+
+\begin_inset script subscript
+
+\begin_layout Plain Layout
+
+\size tiny
+↑
+\end_layout
+
+\end_inset
+
+
 \size giant
+\color inherit
 ●
 \end_layout
 
