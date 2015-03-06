@@ -233,12 +233,6 @@ han
 ●
 \size largest
  Hannya shingyo.
-\size default
-
-\begin_inset VSpace defskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -259,50 +253,12 @@ height "1pt"
 \noindent
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="6" columns="4">
+<lyxtabular version="3" rows="5" columns="4">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
 <row>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
@@ -569,9 +525,6 @@ height "1pt"
 
 \begin_layout Subsubsection*
 \noindent
-\begin_inset VSpace defskip
-\end_inset
-
 
 \shape smallcaps
 \size larger
