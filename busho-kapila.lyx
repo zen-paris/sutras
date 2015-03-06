@@ -166,7 +166,7 @@ Tosan rinku jaku
 \size larger
 \begin_inset CommandInset line
 LatexCommand rule
-offset "0.5ex"
+offset "-0.045cm"
 width "100col%"
 height "1pt"
 
