@@ -824,18 +824,29 @@ Shitsu ryo tokubo u man
 Onma kura sai sowaka
 \end_layout
 
-\begin_layout Subsubsection*
+\begin_layout Standard
 \paragraph_spacing other 0.8
 \noindent
 
 \shape italic
 \size larger
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "1pt"
+\begin_inset VSpace defskip
+\end_inset
 
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
+\end_inset
+
+
+\begin_inset VSpace defskip
 \end_inset
 
 
