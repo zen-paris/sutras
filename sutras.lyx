@@ -10,10 +10,10 @@
 \inputencoding auto
 \fontencoding global
 \font_roman default
-\font_sans default
+\font_sans tgadventor
 \font_typewriter default
 \font_math auto
-\font_default_family default
+\font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -24,7 +24,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
+\paperfontsize 10
 \spacing single
 \use_hyperref false
 \papersize a4paper
@@ -277,7 +277,7 @@ Shu jo muhen sei gan do
 
 \begin_layout Plain Layout
 
-\size huge
+\size larger
 ●
 \end_layout
 
@@ -319,7 +319,7 @@ Bonno mujin sei gan dan
 
 \begin_layout Plain Layout
 
-\size huge
+\size larger
 ●
 \end_layout
 
@@ -341,7 +341,7 @@ Ji ho san shi i shi fu
 
 \begin_layout Plain Layout
 
-\size huge
+\size larger
 ●
 \end_layout
 
@@ -365,7 +365,7 @@ Ho mon muryo sei gan gaku
 
 \begin_layout Plain Layout
 
-\size huge
+\size larger
 ●
 \end_layout
 
@@ -387,7 +387,7 @@ Shi son bu sa mo ko sa
 
 \begin_layout Plain Layout
 
-\size huge
+\size larger
 ●
 \end_layout
 
@@ -431,10 +431,6 @@ Mo ko ho ya ho ro mi
 
 \begin_layout Plain Layout
 
-\size largest
-◯
-\size huge
-●
 \size larger
 ◯
 \size largest
@@ -531,10 +527,8 @@ Sutra du kesa
 \begin_layout Standard
 \noindent
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="4">
+<lyxtabular version="3" rows="2" columns="2">
 <features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <row>
@@ -543,7 +537,7 @@ Sutra du kesa
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="1">
+<lyxtabular version="3" rows="8" columns="1">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <row>
@@ -554,7 +548,7 @@ Sutra du kesa
 
 \shape italic
 \size larger
-Le dire trois fois en plaçant sur la
+Le dire trois fois en plaçant
 \end_layout
 
 \end_inset
@@ -568,7 +562,7 @@ Le dire trois fois en plaçant sur la
 
 \shape italic
 \size larger
-tête le kesa plié avec la calligraphie
+sur la tête le kesa plié avec
 \end_layout
 
 \end_inset
@@ -582,7 +576,21 @@ tête le kesa plié avec la calligraphie
 
 \shape italic
 \size larger
-à l'extérieur, les mains en gassho.
+la calligraphie à l'extérieur,
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+\size larger
+les mains en gassho.
 \end_layout
 
 \end_inset
@@ -644,24 +652,6 @@ Ko do sho shu jo
 
 \end_inset
 
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
 
 \end_layout
 
@@ -778,24 +768,6 @@ Butsudo wo jozen koto wo o o
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
 

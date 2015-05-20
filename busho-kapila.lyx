@@ -10,10 +10,10 @@
 \inputencoding auto
 \fontencoding global
 \font_roman default
-\font_sans default
+\font_sans tgadventor
 \font_typewriter default
 \font_math auto
-\font_default_family default
+\font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -24,7 +24,7 @@
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
+\paperfontsize 12
 \spacing single
 \use_hyperref false
 \papersize a4paper
@@ -50,15 +50,15 @@
 \use_refstyle 1
 \index Index
 \shortcut idx
-\color #008000
+\color #007000
 \end_index
 \paperwidth 10.5cm
 \paperheight 29.7cm
 \leftmargin 0.5cm
 \topmargin 1cm
-\rightmargin 0.8cm
+\rightmargin 0.7cm
 \bottommargin 0.5cm
-\columnsep 0.1cm
+\columnsep 0.2cm
 \secnumdepth -2
 \tocdepth -2
 \paragraph_separation indent
@@ -77,293 +77,12 @@
 \begin_body
 
 \begin_layout Subsubsection*
-\paragraph_spacing other 0.8
+\paragraph_spacing other 0.7
 \noindent
 
 \shape smallcaps
-\size largest
+\size larger
 Busshô Kapila
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\shape italic
-\size largest
-Sutra des repas
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Bussho Kapila
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Jodo Makada
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Seppo Harana
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Nyumetsu kuchira
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Nyorai oryoki
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Gakkon toku futen
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Ganku issai shu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Tosan rinku jaku
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\shape italic
-\size larger
-\begin_inset CommandInset line
-LatexCommand rule
-offset "-0.045cm"
-width "100col%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\shape italic
-\size larger
-Les mains en gassho.
- Remplir les bols ou les assiettes une fois que le maître est servi.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Shinjin pashin biru shanofu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Enmom hoshin ru shanofu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Senpai kashin shakyamuni fu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Torai asan miruson fu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Jiho sanshi i shi fu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Daijin myo horenkajin
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Daishin monju suribusa
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Daian fuen busa
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Daihi kanshi in busa
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Shi son busa mokosa
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Moko hoja horomi
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Hitotsu ni wa kono tasho wo hakari
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\shape italic
-\size larger
-À 
-\shape default
-hakari,
-\shape italic
- les mains en kin-hin, puis en zazen.
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Ka no rai sho wo hakaru
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Futatsu ni wa onorega tokugyo no
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Zen ketto wo hakatte kuni ozu
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Mitsu ni wa shin wo fusegi toga wo hanareru kotowa
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Tonto wo shutto su
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Yotsu ni wa massani ryoyaku wo koto to suruwa
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Gyoko wo ryozen ga tamenari
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Itsutsu ni wa jo do no tame no yueni
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\size largest
-Ima kono shiki wo uku
 \end_layout
 
 \begin_layout Standard
@@ -372,126 +91,406 @@ Ima kono shiki wo uku
 
 \shape italic
 \size larger
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "1pt"
-
-\end_inset
-
-
+Sutra des repas
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.8
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Bussho Kapila
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Jodo Makada
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Seppo Harana
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Nyumetsu kuchira
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Nyorai oryoki
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Gakkon toku futen
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Ganku issai shu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Tosan rinku jaku
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size larger
+\begin_inset VSpace defskip
+\end_inset
+
+❃❃❃
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
 \noindent
 
 \shape italic
+\size large
+Les mains en gassho.
+ Remplir les bols une fois que le maître est servi.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Shinjin pashin biru shanofu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Enmom hoshin ru shanofu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Senpai kashin shakyamuni fu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Torai asan miruson fu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Jiho sanshi i shi fu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Daijin myo horenkajin
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Daishin monju suribusa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Daian fuen busa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Daihi kanshi in busa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Shi son busa mokosa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Moko hoja horomi
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Hitotsu ni wa kono tasho wo hakari
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\shape italic
+À hakari, les mains en kin-hin, puis en zazen.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Ka no rai sho wo hakaru
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Futatsu ni wa onorega tokugyo no
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Zen ketto wo hakatte kuni ozu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Mitsu ni wa shin wo fusegi toga wo hanareru kotowa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Tonto wo shutto su
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Yotsu ni wa massani ryoyaku wo koto to suruwa
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Gyoko wo ryozen ga tamenari
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Itsutsu ni wa jo do no tame no yueni
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Ima kono shiki wo uku
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size larger
+❃❃❃
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\shape italic
+\size large
+Mettre la cuiller manche vers l’avant dans le bol.
+  Le midi, ajouter un petit morceau de pain.
+  Lever le bol à hauteur du visage en le tenant avec les pouces, les index
+ et les majeurs
+\size larger
+.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Jobun sambo chubun shion
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Gekyu rokudo kaidoku jo
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Ikkui dan issai aku
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Nikui shu issai zen
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Sankui do sho shu jo
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Kaigu jo butsudo
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\size larger
+❃❃❃
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\shape italic
+\size large
+Manger la genmai en levant le bol à hauteur de la bouche.
+ Remplir de thé et nettoyer le bol avec le thé.
+ Lever le bol comme pour la genmai.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Gashi sen bassui
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Nyo ten kan romi
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Seyo ki jinshu
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Shitsu ryo tokubo u man
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.7
+\noindent
+
+\size larger
+Onma kura sai sowaka
+\end_layout
+
+\begin_layout Standard
+
 \size larger
 \begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="1">
+<lyxtabular version="3" rows="1" columns="1">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
 <row>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
@@ -508,358 +507,26 @@ height "1pt"
 \end_inset
 
 
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
 \noindent
+\align center
 
-\shape italic
 \size larger
-Mettre la cuiller manche vers l’avant dans le bol.
-  Le midi, ajouter un petit morceau de pain.
-  Lever le bol à hauteur du visage en le tenant avec les pouces, les index
- et les majeurs.
+❃❃❃
 \end_layout
 
 \begin_layout Standard
 \noindent
 
-\size largest
-Jobun sambo chubun shion
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Gekyu rokudo kaidoku jo
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Ikkui dan issai aku
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Nikui shu issai zen
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Sankui do sho shu jo
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Kaigu jo butsudo
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\shape italic
 \size larger
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\shape italic
-\size larger
-Manger la genmai en levant le bol à hauteur de la bouche.
- Remplir de thé et nettoyer le bol avec le thé.
- Lever le bol comme pour la genmai.
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Gashi sen bassui
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Nyo ten kan romi
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Seyo ki jinshu
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Shitsu ryo tokubo u man
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\size largest
-Onma kura sai sowaka
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.8
-\noindent
-
-\shape italic
-\size larger
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\begin_inset VSpace defskip
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
 \begin_inset Tabular
-<lyxtabular version="3" rows="21" columns="1">
+<lyxtabular version="3" rows="33" columns="1">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -875,19 +542,10 @@ Onma kura sai sowaka
 
 \begin_layout Plain Layout
 
-\size largest
+\series bold
+\shape smallcaps
+\size larger
 Eko
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
 \end_layout
 
 \end_inset
@@ -907,13 +565,24 @@ Aogi Koi Ne Ga Wa Ku Wa
 </cell>
 </row>
 <row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
 <cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \size larger
-Sambo Fushite Shokan Wo Tare Tamae
+Sambo Fushite Shokan
 \end_layout
 
 \end_inset
@@ -926,7 +595,18 @@ Sambo Fushite Shokan Wo Tare Tamae
 \begin_layout Plain Layout
 
 \size larger
-Jo Rai Maka Hannya Haramita Shingyo Wo
+Wo Tare Tamae
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -939,7 +619,68 @@ Jo Rai Maka Hannya Haramita Shingyo Wo
 \begin_layout Plain Layout
 
 \size larger
-Fujutsu Atsumuru Tokoro No Kudoku Wa ◐
+Jo Rai Maka Hannya
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Haramita Shingyo Wo
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+Fujutsu Atsumuru Tokoro
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+No Kudoku Wa ◐
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -953,7 +694,7 @@ Fujutsu Atsumuru Tokoro No Kudoku Wa ◐
 
 \shape slanted
 \size larger
-Dai Hon Kyo Shu Honshi Shakya Muni Butsu
+Dai Hon Kyo Shu Honshi
 \end_layout
 
 \end_inset
@@ -967,7 +708,57 @@ Dai Hon Kyo Shu Honshi Shakya Muni Butsu
 
 \shape slanted
 \size larger
-Shin Tan Shoso Bodai Daruma Daiosho
+Shakya Muni Butsu
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Shin Tan Shoso Bodai
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape slanted
+\size larger
+Daruma Daiosho
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -1081,9 +872,18 @@ Zuigaku Rempo Zenji Daiosho
 \size larger
 No Tame Kamiji On Ni Mukui
 \shape default
- 
-\size large
 ◯
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -1109,7 +909,20 @@ Honjitsu Paris Dojo Ni
 \begin_layout Plain Layout
 
 \size larger
-Sanzen Seishu Ichido No Kofuku Wo
+Sanzen Seishu Ichido
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size larger
+No Kofuku Wo
 \end_layout
 
 \end_inset
