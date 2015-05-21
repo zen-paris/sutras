@@ -669,7 +669,9 @@ Fujutsu Atsumuru Tokoro
 \begin_layout Plain Layout
 
 \size larger
-No Kudoku Wa ◐
+No Kudoku Wa
+\color red
+◐
 \end_layout
 
 \end_inset
@@ -872,6 +874,7 @@ Zuigaku Rempo Zenji Daiosho
 \size larger
 No Tame Kamiji On Ni Mukui
 \shape default
+\color red
 ◯
 \end_layout
 

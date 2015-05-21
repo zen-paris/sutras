@@ -80,11 +80,13 @@
 \noindent
 
 \size huge
+\color red
 ●●●
 \shape slanted
 ◐
 \shape smallcaps
 \size largest
+\color inherit
 Maka hannya haramita shingyo
 \end_layout
 
@@ -126,9 +128,11 @@ guy
 \series bold
 \size largest
 \bar under
+\color red
 Kan
 \series default
 \bar default
+\color inherit
  ji zai bo satsu 
 \shape italic
 (gyo)
@@ -136,16 +140,20 @@ Kan
  jin 
 \series bold
 \bar under
+\color red
 han
 \series default
 \bar default
+\color inherit
  nya hara mita ji.
  Sho ken go 
 \series bold
 \bar under
+\color red
 on
 \series default
 \bar default
+\color inherit
  kai ku.
  Do issai ku yaku.
  Sha ri shi.
@@ -172,24 +180,30 @@ on
  I 
 \series bold
 \bar under
+\color red
 mu
 \series default
 \bar default
+\color inherit
  sho toku ko.
  Bo dai sat ta.
  E 
 \series bold
 \bar under
+\color red
 han
 \series default
 \bar default
+\color inherit
  nya hara mita ko.
  
 \series bold
 \bar under
+\color red
 Shin
 \series default
 \bar default
+\color inherit
  mu ke ge mu ke ge ko.
  Mu u ku fu.
  On ri issai ten do mu so.
@@ -197,17 +211,21 @@ Shin
  San ze sho butsu e 
 \series bold
 \bar under
+\color red
 han
 \series default
 \bar default
+\color inherit
  nya hara mita ko.
  Toku a nokuta ra san myaku san bodai.
  Ko chi 
 \series bold
 \bar under
+\color red
 han
 \series default
 \bar default
+\color inherit
  nya hara mita.
  Ze dai jin shu.
  Ze dai myo shu.
@@ -217,9 +235,11 @@ han
  Shin jitsu fu ko ko setsu 
 \series bold
 \bar under
+\color red
 han
 \series default
 \bar default
+\color inherit
  nya hara mita shu.
  Soku setsu shu watsu.
  Gyatei, gyatei, hara gyatei hara so gyatei bo ji so wa ka.
@@ -230,8 +250,10 @@ han
 \noindent
 
 \size huge
+\color red
 ●
 \size largest
+\color inherit
  Hannya shingyo.
 \end_layout
 
@@ -278,6 +300,7 @@ Shu jo muhen sei gan do
 \begin_layout Plain Layout
 
 \size larger
+\color red
 ●
 \end_layout
 
@@ -323,6 +346,7 @@ Bonno mujin sei gan dan
 \begin_layout Plain Layout
 
 \size larger
+\color red
 ●
 \end_layout
 
@@ -345,6 +369,7 @@ Ji ho san shi i shi fu
 \begin_layout Plain Layout
 
 \size larger
+\color red
 ●
 \end_layout
 
@@ -369,6 +394,7 @@ Ho mon muryo sei gan gaku
 \begin_layout Plain Layout
 
 \size larger
+\color red
 ●
 \end_layout
 
@@ -391,6 +417,7 @@ Shi son bu sa mo ko sa
 \begin_layout Plain Layout
 
 \size larger
+\color red
 ●
 \end_layout
 
@@ -435,6 +462,7 @@ Mo ko ho ya ho ro mi
 \begin_layout Plain Layout
 
 \size larger
+\color red
 ◯
 \size largest
 ●
