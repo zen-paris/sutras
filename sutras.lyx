@@ -93,16 +93,8 @@ Maka hannya haramita shingyo
 \begin_layout Standard
 
 \shape italic
-\size larger
-Essence du sutra de la grande sagesse qui permet d’aller au-delà
-\end_layout
-
-\begin_layout Standard
-\noindent
-
-\shape italic
-\size larger
-Les 
+Essence du sutra de la grande sagesse qui permet d’aller au-delà.
+ Les 
 \shape default
 ge
 \shape italic
@@ -312,7 +304,6 @@ Shu jo muhen sei gan do
 \begin_layout Plain Layout
 
 \shape italic
-\size large
 (Fuekô)
 \end_layout
 
@@ -578,7 +569,6 @@ Sutra du kesa
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 Le dire trois fois en plaçant
 \end_layout
 
@@ -592,7 +582,6 @@ Le dire trois fois en plaçant
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 sur la tête le kesa plié avec
 \end_layout
 
@@ -606,7 +595,6 @@ sur la tête le kesa plié avec
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 la calligraphie à l'extérieur,
 \end_layout
 
@@ -620,7 +608,6 @@ la calligraphie à l'extérieur,
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 les mains en gassho.
 \end_layout
 
@@ -1108,7 +1095,6 @@ Sonner le métal et le bois
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 Le matin, le bois 
 \end_layout
 
@@ -1122,7 +1108,6 @@ Le matin, le bois
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 s'intercale entre
 \end_layout
 
@@ -1136,7 +1121,6 @@ s'intercale entre
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 les coups de 
 \end_layout
 
@@ -1150,13 +1134,12 @@ les coups de
 \begin_layout Plain Layout
 
 \shape italic
-\size larger
 la 3
 \begin_inset script superscript
 
 \begin_layout Plain Layout
 
-\size small
+\size footnotesize
 e
 \end_layout
 
