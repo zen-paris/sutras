@@ -252,15 +252,9 @@ han
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "50col%"
-height "1pt"
 
-\end_inset
-
-
+\size larger
+❃❃❃
 \end_layout
 
 \begin_layout Standard
@@ -525,17 +519,10 @@ Mo ko ho ya ho ro mi
 
 \begin_layout Standard
 \noindent
+\align center
 
-\shape italic
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100col%"
-height "1pt"
-
-\end_inset
-
-
+\size larger
+❃❃❃
 \end_layout
 
 \begin_layout Subsubsection*
