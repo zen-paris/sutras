@@ -176,6 +176,7 @@ Tosan rinku jaku
 \shape italic
 Les mains en gassho.
  Remplir les bols une fois que le maître est servi.
+ À hakari, mettre les mains en kin-hin, puis en zazen.
 \end_layout
 
 \begin_layout Standard
@@ -271,15 +272,9 @@ Moko hoja horomi
 \noindent
 
 \size larger
-Hitotsu ni wa kono tasho wo hakari
-\end_layout
-
-\begin_layout Standard
-\paragraph_spacing other 0.7
-\noindent
-
-\shape italic
-À hakari, les mains en kin-hin, puis en zazen.
+Hitotsu ni wa kono tasho wo 
+\bar under
+hakari
 \end_layout
 
 \begin_layout Standard
