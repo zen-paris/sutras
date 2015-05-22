@@ -100,6 +100,8 @@ Sutra des repas
 
 \size larger
 Bussho Kapila
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -108,6 +110,8 @@ Bussho Kapila
 
 \size larger
 Jodo Makada
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -116,6 +120,8 @@ Jodo Makada
 
 \size larger
 Seppo Harana
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -124,6 +130,8 @@ Seppo Harana
 
 \size larger
 Nyumetsu kuchira
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -132,6 +140,8 @@ Nyumetsu kuchira
 
 \size larger
 Nyorai oryoki
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -140,6 +150,8 @@ Nyorai oryoki
 
 \size larger
 Gakkon toku futen
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -148,6 +160,8 @@ Gakkon toku futen
 
 \size larger
 Ganku issai shu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -156,16 +170,15 @@ Ganku issai shu
 
 \size larger
 Tosan rinku jaku
+\size footnotesize
+ ● ●
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
 
-\size larger
-\begin_inset VSpace defskip
-\end_inset
-
+\size large
 ❃❃❃
 \end_layout
 
@@ -180,180 +193,247 @@ Les mains en gassho.
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Shinjin pashin biru shanofu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Enmom hoshin ru shanofu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Senpai kashin shakyamuni fu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Torai asan miruson fu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Jiho sanshi i shi fu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Daijin myo horenkajin
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Daishin monju suribusa
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Daian fuen busa
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Daihi kanshi in busa
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Shi son busa mokosa
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Moko hoja horomi
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
-Hitotsu ni wa kono tasho wo 
-\bar under
-hakari
+Hitotsu ni wa kono tasho
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
+\noindent
+
+\size larger
+wo 
+\bar under
+hakari
+\size footnotesize
+\bar default
+ ●
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Ka no rai sho wo hakaru
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
-Futatsu ni wa onorega tokugyo no
+Futatsu ni wa onorega
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
+\noindent
+
+\size larger
+tokugyo no
+\size footnotesize
+ ●
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Zen ketto wo hakatte kuni ozu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Mitsu ni wa shin wo fusegi toga wo hanareru kotowa
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Tonto wo shutto su
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Yotsu ni wa massani ryoyaku wo koto to suruwa
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Gyoko wo ryozen ga tamenari
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
-Itsutsu ni wa jo do no tame no yueni
+Itsutsu ni wa jo do no
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.7
+\paragraph_spacing other 0.8
+\noindent
+
+\size larger
+tame no yueni
+\size footnotesize
+ ●
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 0.8
 \noindent
 
 \size larger
 Ima kono shiki wo uku
+\size footnotesize
+ ● ●
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
 
-\size larger
+\size large
 ❃❃❃
 \end_layout
 
@@ -374,6 +454,8 @@ Mettre la cuiller manche vers l’avant dans le bol.
 
 \size larger
 Jobun sambo chubun shion
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -382,6 +464,8 @@ Jobun sambo chubun shion
 
 \size larger
 Gekyu rokudo kaidoku jo
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -390,6 +474,8 @@ Gekyu rokudo kaidoku jo
 
 \size larger
 Ikkui dan issai aku
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -398,6 +484,8 @@ Ikkui dan issai aku
 
 \size larger
 Nikui shu issai zen
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -406,6 +494,8 @@ Nikui shu issai zen
 
 \size larger
 Sankui do sho shu jo
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -414,13 +504,15 @@ Sankui do sho shu jo
 
 \size larger
 Kaigu jo butsudo
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
 
-\size larger
+\size large
 ❃❃❃
 \end_layout
 
@@ -440,6 +532,8 @@ Manger la genmai en levant le bol à hauteur de la bouche.
 
 \size larger
 Gashi sen bassui
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -448,6 +542,8 @@ Gashi sen bassui
 
 \size larger
 Nyo ten kan romi
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -456,6 +552,8 @@ Nyo ten kan romi
 
 \size larger
 Seyo ki jinshu
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -464,6 +562,8 @@ Seyo ki jinshu
 
 \size larger
 Shitsu ryo tokubo u man
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -472,6 +572,8 @@ Shitsu ryo tokubo u man
 
 \size larger
 Onma kura sai sowaka
+\size footnotesize
+ ●
 \end_layout
 
 \begin_layout Standard
@@ -503,7 +605,7 @@ Onma kura sai sowaka
 \noindent
 \align center
 
-\size larger
+\size large
 ❃❃❃
 \end_layout
 
