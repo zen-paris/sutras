@@ -122,13 +122,13 @@
             <para LINESPMode="1" LINESP="12"/>
             <ITEXT FONTSIZE="9" CH=" "/>
             <para LINESPMode="0" LINESP="6"/>
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH="3€"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH="4 €"/>
             <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH=" par séance."/>
             <para LINESPMode="1" LINESP="12"/>
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH="25€"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH="30 €"/>
             <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH=" par mois."/>
             <para LINESPMode="1" LINESP="12"/>
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH="200€"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH="200 €"/>
             <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" FCOLOR="Beige" FSHADE="100" SCALEH="86" CH=" par an."/>
             <para LINESPMode="1" LINESP="12"/>
             <PageItemAttributes/>
