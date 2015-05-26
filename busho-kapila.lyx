@@ -605,7 +605,7 @@ Onma kura sai sowaka
 
 \size larger
 \begin_inset Tabular
-<lyxtabular version="3" rows="33" columns="1">
+<lyxtabular version="3" rows="29" columns="1">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top">
 <row>
@@ -635,23 +635,24 @@ Eko
 </cell>
 </row>
 <row>
-<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
-\size larger
-Aogi Koi Ne Ga Wa Ku Wa
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size larger
+Aogi Koi Ne Ga Wa Ku Wa\SpecialChar \@.
 
 \end_layout
 
@@ -678,17 +679,7 @@ Sambo Fushite Shokan
 \begin_layout Plain Layout
 
 \size larger
-Wo Tare Tamae
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+Wo Tare Tamae\SpecialChar \@.
 
 \end_layout
 
@@ -715,17 +706,7 @@ Jo Rai Maka Hannya
 \begin_layout Plain Layout
 
 \size larger
-Haramita Shingyo Wo
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+Haramita Shingyo Wo\SpecialChar \@.
 
 \end_layout
 
@@ -794,16 +775,8 @@ Dai Hon Kyo Shu Honshi
 \shape slanted
 \size larger
 Shakya Muni Butsu
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\shape default
+\SpecialChar \@.
 
 \end_layout
 
@@ -833,16 +806,8 @@ Shin Tan Shoso Bodai
 \shape slanted
 \size larger
 Daruma Daiosho
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\shape default
+\SpecialChar \@.
 
 \end_layout
 
@@ -858,6 +823,9 @@ Daruma Daiosho
 \shape slanted
 \size larger
 Shusho Eihei Dogen Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
@@ -872,6 +840,9 @@ Shusho Eihei Dogen Daiosho
 \shape slanted
 \size larger
 Keizan Jokin Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
@@ -886,6 +857,9 @@ Keizan Jokin Daiosho
 \shape slanted
 \size larger
 Mokusho Senku Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
@@ -900,6 +874,9 @@ Mokusho Senku Daiosho
 \shape slanted
 \size larger
 Kaku Kaku Rekidai No Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
@@ -914,6 +891,9 @@ Kaku Kaku Rekidai No Daiosho
 \shape slanted
 \size larger
 Narabini Somon Kodo Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
@@ -928,6 +908,9 @@ Narabini Somon Kodo Daiosho
 \shape slanted
 \size larger
 Mokudo Taisen Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
@@ -942,6 +925,9 @@ Mokudo Taisen Daiosho
 \shape slanted
 \size larger
 Zuigaku Rempo Zenji Daiosho
+\shape default
+\SpecialChar \@.
+
 \end_layout
 
 \end_inset
