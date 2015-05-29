@@ -648,7 +648,9 @@ Eko
 \begin_layout Plain Layout
 
 \size larger
-Aogi Koi Ne Ga Wa Ku Wa\SpecialChar \@.
+Aogi Koi Ne Ga Wa Ku Wa
+\size giant
+\SpecialChar \@.
 
 \end_layout
 
@@ -675,7 +677,9 @@ Sambo Fushite Shokan
 \begin_layout Plain Layout
 
 \size larger
-Wo Tare Tamae\SpecialChar \@.
+Wo Tare Tamae
+\size giant
+\SpecialChar \@.
 
 \end_layout
 
@@ -702,7 +706,9 @@ Jo Rai Maka Hannya
 \begin_layout Plain Layout
 
 \size larger
-Haramita Shingyo Wo\SpecialChar \@.
+Haramita Shingyo Wo
+\size giant
+\SpecialChar \@.
 
 \end_layout
 
@@ -772,6 +778,7 @@ Dai Hon Kyo Shu Honshi
 \size larger
 Shakya Muni Butsu
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -803,6 +810,7 @@ Shin Tan Shoso Bodai
 \size larger
 Daruma Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -820,6 +828,7 @@ Daruma Daiosho
 \size larger
 Shusho Eihei Dogen Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -837,6 +846,7 @@ Shusho Eihei Dogen Daiosho
 \size larger
 Keizan Jokin Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -854,6 +864,7 @@ Keizan Jokin Daiosho
 \size larger
 Mokusho Senku Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -871,6 +882,7 @@ Mokusho Senku Daiosho
 \size larger
 Kaku Kaku Rekidai No Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -888,6 +900,7 @@ Kaku Kaku Rekidai No Daiosho
 \size larger
 Narabini Somon Kodo Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -905,6 +918,7 @@ Narabini Somon Kodo Daiosho
 \size larger
 Mokudo Taisen Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
@@ -922,6 +936,7 @@ Mokudo Taisen Daiosho
 \size larger
 Zuigaku Rempo Zenji Daiosho
 \shape default
+\size giant
 \SpecialChar \@.
 
 \end_layout
